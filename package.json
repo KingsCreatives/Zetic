@@ -1,0 +1,12 @@
+{
+  "name": "zetic",
+  "version": "1.0.0",
+  "description": "An Activity tracker app that helps you improve the quality of your life",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kwame Cody | Boluwatife Adeyemi",
+  "license": "ISC"
+}
